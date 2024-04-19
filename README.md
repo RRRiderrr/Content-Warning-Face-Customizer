@@ -9,4 +9,6 @@ Instructions:
 5. Done.
 
 Note: some symbols and emoji from the Windows list may not be supported by the game and will be displayed as a square!
-![image](https://github.com/RRRiderrr/Content-Warning-Face-Customizer/assets/77801822/45d27c3f-736f-4417-bedc-0459aa057bbe)
+
+![image](https://github.com/RRRiderrr/Content-Warning-Face-Customizer/assets/77801822/e61540cd-229d-4437-829c-1e06e602ca7f)
+
