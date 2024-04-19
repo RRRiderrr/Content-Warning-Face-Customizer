@@ -1,0 +1,10 @@
+E:\source\repos\CWCF\CWCF\obj\Debug\CWFC.csproj.AssemblyReference.cache
+E:\source\repos\CWCF\CWCF\obj\Debug\CWCF.Form1.resources
+E:\source\repos\CWCF\CWCF\obj\Debug\CWFC.csproj.GenerateResource.cache
+E:\source\repos\CWCF\CWCF\obj\Debug\CWFC.csproj.CoreCompileInputs.cache
+E:\source\repos\CWCF\CWCF\bin\Debug\CWFC.exe.config
+E:\source\repos\CWCF\CWCF\bin\Debug\CWFC.exe
+E:\source\repos\CWCF\CWCF\bin\Debug\CWFC.pdb
+E:\source\repos\CWCF\CWCF\obj\Debug\CWFC.Properties.Resources.resources
+E:\source\repos\CWCF\CWCF\obj\Debug\CWFC.exe
+E:\source\repos\CWCF\CWCF\obj\Debug\CWFC.pdb
